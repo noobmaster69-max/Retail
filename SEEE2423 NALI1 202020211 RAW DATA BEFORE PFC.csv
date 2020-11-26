@@ -1,4 +1,4 @@
-,Vrms_AN_avg (V),Vrms_BN_avg (V),Vrms_CN_avg (V),Irms_A_avg (A),Irms_B_avg (A),Irms_C_avg (A),Power (P)_A_avg (W),Power (P)_B_avg (W),Power (P)_C_avg (W),Power (Q)_A_avg (VAR),Power (Q)_B_avg (VAR),Power (Q)_C_avg (VAR)
+date,Vrms_AN_avg (V),Vrms_BN_avg (V),Vrms_CN_avg (V),Irms_A_avg (A),Irms_B_avg (A),Irms_C_avg (A),Power (P)_A_avg (W),Power (P)_B_avg (W),Power (P)_C_avg (W),Power (Q)_A_avg (VAR),Power (Q)_B_avg (VAR),Power (Q)_C_avg (VAR)
 11/22/2017 6:00,251.285,249.853,255.603,0.401716,2.1593,0.027934,55.0213,244.897,3.59066,-19.1073,479.273,-3.64964
 11/22/2017 6:01,251.315,249.864,255.499,0.399278,2.16035,0.025069,55.1393,245.951,3.53343,-18.8796,478.936,-3.70715
 11/22/2017 6:02,251.284,249.964,255.291,0.39934,2.16541,0.026199,55.0919,246.772,3.61275,-19.0347,480.228,-3.57686
