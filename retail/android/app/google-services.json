@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "28083074295",
+    "project_id": "retail-f1888",
+    "storage_bucket": "retail-f1888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28083074295:android:e36c72a548b7b2a1c28ff2",
+        "android_client_info": {
+          "package_name": "com.example.retail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28083074295-qm7rgig4rftjmp9miaql1hpjenjlpr3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.retail",
+            "certificate_hash": "a80bc38c58e4bcf7fe18039e0c70e2f36d84427c"
+          }
+        },
+        {
+          "client_id": "28083074295-rgvg32mcuashm3rnso6v4ohdurl89gje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkHMeQJ9xmjanD3BpffNfrNxvjLKk7n1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28083074295-rgvg32mcuashm3rnso6v4ohdurl89gje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
